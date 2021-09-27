@@ -6,8 +6,12 @@ name = "pypi"
 [packages]
 gensim = "==3.8.1"
 flask = "*"
+sklearn = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.8"
+
+[scripts]
+start = "python app.py"
