@@ -7,6 +7,8 @@ name = "pypi"
 gensim = "==3.8.1"
 flask = "*"
 sklearn = "*"
+flask-cors = "*"
+flake8 = "*"
 
 [dev-packages]
 

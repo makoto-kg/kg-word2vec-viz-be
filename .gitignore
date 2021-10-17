@@ -141,3 +141,5 @@ cython_debug/
 
 # word2vec data
 data/
+
+debug/
